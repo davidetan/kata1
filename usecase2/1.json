@@ -1,23 +1,21 @@
-[
-  {
-    "startingPosition": [
-      0,
-      0
+{
+  "startingPosition": [
+    0,
+    0
+  ],
+  "startingDirection": "N",
+  "commands": [
+    "f",
+    "f",
+    "l",
+    "f",
+    "f"
+  ],
+  "solution": [
+    [
+      -2,
+      2
     ],
-    "startingDirection": "N",
-    "commands": [
-      "f",
-      "f",
-      "l",
-      "f",
-      "f"
-    ],
-    "solution": [
-      [
-        -2,
-        2
-      ],
-      "W"
-    ]
-  }
-]
+    "W"
+  ]
+}

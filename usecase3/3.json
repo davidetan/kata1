@@ -1,29 +1,27 @@
-[
-  {
-    "startingPosition": [
+{
+  "startingPosition": [
+    -2,
+    2
+  ],
+  "startingDirection": "W",
+  "commands": [
+    "f",
+    "r",
+    "f",
+    "r",
+    "f",
+    "l",
+    "f"
+  ],
+  "grid": [
+    2,
+    2
+  ],
+  "solution": [
+    [
       -2,
-      2
+      -1
     ],
-    "startingDirection": "W",
-    "commands": [
-      "f",
-      "r",
-      "f",
-      "r",
-      "f",
-      "l",
-      "f"
-    ],
-    "grid": [
-      2,
-      2
-    ],
-    "solution": [
-      [
-        -2,
-        -1
-      ],
-      "N"
-    ]
-  }
-]
+    "N"
+  ]
+}

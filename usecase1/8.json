@@ -1,28 +1,26 @@
-[
-  {
-    "startingPosition": [
+{
+  "startingPosition": [
+    0,
+    0
+  ],
+  "startingDirection": "S",
+  "commands": [
+    "f",
+    "f",
+    "f",
+    "f",
+    "f",
+    "b",
+    "b",
+    "b",
+    "b",
+    "b"
+  ],
+  "solution": [
+    [
       0,
       0
     ],
-    "startingDirection": "S",
-    "commands": [
-      "f",
-      "f",
-      "f",
-      "f",
-      "f",
-      "b",
-      "b",
-      "b",
-      "b",
-      "b"
-    ],
-    "solution": [
-      [
-        0,
-        0
-      ],
-      "S"
-    ]
-  }
-]
+    "S"
+  ]
+}

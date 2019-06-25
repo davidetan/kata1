@@ -1,47 +1,45 @@
-[
-  {
-    "startingPosition": [
+{
+  "startingPosition": [
+    0,
+    0
+  ],
+  "startingDirection": "N",
+  "commands": [
+    "f",
+    "f",
+    "b",
+    "l",
+    "f",
+    "f",
+    "b"
+  ],
+  "grid": [
+    2,
+    2
+  ],
+  "obstacles": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      -1,
+      0
+    ]
+  ],
+  "solution": [
+    [
       0,
       0
     ],
-    "startingDirection": "N",
-    "commands": [
-      "f",
-      "f",
-      "b",
-      "l",
-      "f",
-      "f",
-      "b"
-    ],
-    "grid": [
-      2,
-      2
-    ],
-    "obstacles": [
-      [
-        0,
-        1
-      ],
-      [
-        0,
-        -1
-      ],
-      [
-        1,
-        0
-      ],
-      [
-        -1,
-        0
-      ]
-    ],
-    "solution": [
-      [
-        0,
-        0
-      ],
-      "W"
-    ]
-  }
-]
+    "W"
+  ]
+}
